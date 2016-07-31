@@ -9,3 +9,7 @@ http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/G_Learning_Loca
       month = {June},
       year = {2016}
     } 
+
+### Requirements: software
+0. MATLAB
+0. MatConvNet-13 (http://www.vlfeat.org/matconvnet/download/matconvnet-1.0-beta13.tar.gz)
